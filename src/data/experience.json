@@ -1,0 +1,89 @@
+[
+  {
+    "id": "exp-1",
+    "company": "Webflair",
+    "position": "Full-Stack Development & SEO Intern",
+    "location": "On-site",
+    "type": "Internship",
+    "startDate": "2025-07",
+    "endDate": "2025-09",
+    "current": false,
+    "description": "Developed and maintained responsive full-stack web applications using React.js, Node.js, Express.js, and MongoDB, ensuring seamless functionality and user experience. Collaborated with cross-functional teams to design and implement scalable features for client projects. Implemented SEO strategies, driving measurable organic traffic growth and improving website visibility and engagement.",
+    "achievements": [
+      "Developed and maintained responsive full-stack applications using React.js, Node.js, Express.js, and MongoDB",
+      "Collaborated with cross-functional teams to design and implement scalable features",
+      "Implemented SEO strategies that improved website visibility and organic traffic",
+      "Ensured seamless functionality and excellent user experience across platforms",
+      "Worked on multiple client projects with high performance and reliability standards"
+    ],
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SEO",
+      "Git",
+      "Responsive Design"
+    ],
+    "projects": []
+  },
+  {
+    "id": "exp-2",
+    "company": "Corizo",
+    "position": "Campus Ambassador & Marketing Intern",
+    "location": "Remote",
+    "type": "Internship",
+    "startDate": "2024-01",
+    "endDate": "2024-04",
+    "current": false,
+    "description": "Represented Corizo as a Campus Ambassador, promoting brand awareness and fostering student engagement. Executed digital marketing campaigns across social media platforms, boosting visibility and lead generation. Built and maintained relationships with students, faculty, and peers to expand outreach and strengthen brand presence. Organized and marketed workshops, webinars, and events, successfully driving student participation and engagement.",
+    "achievements": [
+      "Represented Corizo as Campus Ambassador, promoting brand awareness",
+      "Executed digital marketing campaigns across social media platforms",
+      "Built and maintained relationships with students, faculty, and peers",
+      "Organized and marketed workshops, webinars, and events",
+      "Successfully drove student participation and engagement",
+      "Boosted visibility and lead generation through strategic campaigns"
+    ],
+    "technologies": [
+      "Digital Marketing",
+      "Social Media Marketing",
+      "Event Management",
+      "Brand Promotion",
+      "Community Building",
+      "Public Relations"
+    ]
+  },
+  {
+    "id": "exp-3",
+    "company": "Network Traffic Anomaly Detection",
+    "position": "Project Intern",
+    "location": "Remote",
+    "type": "Internship",
+    "startDate": "2025-03",
+    "endDate": "2025-06",
+    "current": false,
+    "description": "Designed and developed a Network Traffic Anomaly Detection system to identify unusual patterns and potential security threats using Machine Learning techniques. Built an interactive Streamlit-based UI for real-time anomaly visualization and user interaction. Preprocessed large-scale network datasets, applying feature engineering and normalization for model accuracy. Implemented and tested multiple ML algorithms (e.g., Random Forest, Logistic Regression) to enhance detection system performance. Integrated prediction logic with a user-friendly interface, improving system usability and efficiency.",
+    "achievements": [
+      "Designed and developed Network Traffic Anomaly Detection system",
+      "Built interactive Streamlit-based UI for real-time visualization",
+      "Preprocessed large-scale network datasets with feature engineering",
+      "Implemented multiple ML algorithms (Random Forest, Logistic Regression)",
+      "Integrated prediction logic with user-friendly interface",
+      "Improved system usability and detection efficiency"
+    ],
+    "technologies": [
+      "Python",
+      "Machine Learning",
+      "Streamlit",
+      "Random Forest",
+      "Logistic Regression",
+      "Data Preprocessing",
+      "Feature Engineering",
+      "Network Security"
+    ]
+  }
+]

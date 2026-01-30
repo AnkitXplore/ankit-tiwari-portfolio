@@ -1,0 +1,126 @@
+[
+  {
+    "id": "project-1",
+    "title": "E-Commerce Platform",
+    "description": "A full-featured e-commerce platform with product management, shopping cart, payment integration, and admin dashboard. Built with modern technologies for optimal performance and user experience.",
+    "longDescription": "Comprehensive e-commerce solution featuring user authentication, product catalog with advanced filtering, shopping cart functionality, secure payment processing via Stripe, order management, and a powerful admin dashboard for inventory and sales tracking.",
+    "image": "/images/projects/ecommerce.jpg",
+    "technologies": ["Next.js", "TypeScript", "Node.js", "MongoDB", "Stripe", "Tailwind CSS", "Redux"],
+    "category": ["Full-Stack", "E-Commerce"],
+    "featured": true,
+    "liveUrl": "https://demo-ecommerce.example.com",
+    "githubUrl": "https://github.com/yourusername/ecommerce-platform",
+    "highlights": [
+      "Secure payment processing with Stripe",
+      "Real-time inventory management",
+      "Advanced product filtering and search",
+      "Responsive design for all devices",
+      "Admin dashboard with analytics"
+    ],
+    "status": "completed",
+    "date": "2024-03"
+  },
+  {
+    "id": "project-2",
+    "title": "Task Management Dashboard",
+    "description": "A collaborative task management application with real-time updates, team collaboration features, and project tracking capabilities.",
+    "longDescription": "Feature-rich task management system with drag-and-drop functionality, real-time collaboration, project timelines, team member assignments, file attachments, and comprehensive reporting tools.",
+    "image": "/images/projects/task-manager.jpg",
+    "technologies": ["React", "Node.js", "Socket.io", "PostgreSQL", "Express", "Material-UI"],
+    "category": ["Full-Stack", "Productivity"],
+    "featured": true,
+    "liveUrl": "https://flownest-10.onrender.com/",
+    "githubUrl": "https://github.com/AnkitXplore/FlowNest",
+    "highlights": [
+      "Real-time collaboration with Socket.io",
+      "Drag-and-drop task organization",
+      "Team member management",
+      "Project timeline visualization",
+      "File attachment support"
+    ],
+    "status": "completed",
+    "date": "2024-02"
+  },
+  {
+    "id": "project-3",
+    "title": "Network Anomaly Detector",
+    "description": "A SaaS platform that allows users to create professional portfolio websites without coding knowledge, featuring customizable templates and drag-and-drop editing.",
+    "longDescription": "Advanced network monitoring system that detects unusual patterns and potential security threats in real-time network traffic using machine learning algorithms.",
+    "image": "/images/projects/portfolio-builder.jpg",
+    "technologies": ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
+    "category": ["Full-Stack", "Machine Learning"],
+    "featured": true,
+    "liveUrl": "https://abl5ya3t7qwcwyvlnyra7n.streamlit.app/",
+    "githubUrl": "https://github.com/AnkitXplore/-network-anomaly-detector",
+    "highlights": [
+      "Drag-and-drop website builder",
+      "10+ professional templates",
+      "Custom domain integration"
+    ],
+    "status": "completed",
+    "date": "2024-01"
+  },
+  {
+    "id": "project-4",
+    "title": "Weather Forecast App",
+    "description": "A beautiful weather application with real-time weather data, 7-day forecasts, and location-based weather alerts.",
+    "longDescription": "Modern weather application featuring current weather conditions, hourly and weekly forecasts, weather maps, severe weather alerts, and location search with autocomplete.",
+    "image": "/images/projects/weather-app.jpg",
+    "technologies": ["React", "TypeScript", "OpenWeather API", "Mapbox", "Chart.js", "Tailwind CSS"],
+    "category": ["Frontend", "API Integration"],
+    "featured": false,
+    "liveUrl": "https://climate-now-gilt.vercel.app/",
+    "githubUrl": "https://github.com/AnkitXplore/climate-now",
+    "highlights": [
+      "Real-time weather data",
+      "Interactive weather maps",
+      "7-day forecast visualization",
+      "Location-based alerts",
+      "Beautiful UI with animations"
+    ],
+    "status": "completed",
+    "date": "2023-12"
+  },
+  {
+    "id": "project-5",
+    "title": "Blog Platform with CMS",
+    "description": "A modern blogging platform with a headless CMS, markdown support, and SEO optimization features.",
+    "longDescription": "Full-featured blogging platform with markdown editor, image optimization, tag system, comment functionality, RSS feeds, and comprehensive SEO tools.",
+    "image": "/images/projects/blog-platform.jpg",
+    "technologies": ["Next.js", "MDX", "Contentful", "TypeScript", "Vercel", "Tailwind CSS"],
+    "category": ["Full-Stack", "Content Management"],
+    "featured": false,
+    "liveUrl": "https://demo-blog.example.com",
+    "githubUrl": "https://github.com/yourusername/blog-platform",
+    "highlights": [
+      "MDX support for rich content",
+      "SEO-optimized blog posts",
+      "Tag-based categorization",
+      "Reading time estimation",
+      "Social media sharing"
+    ],
+    "status": "completed",
+    "date": "2023-11"
+  },
+  {
+    "id": "project-6",
+    "title": "Real-Time Chat Application",
+    "description": "A real-time messaging application with group chats, file sharing, and end-to-end encryption.",
+    "longDescription": "Secure messaging platform featuring one-on-one and group chats, file sharing, emoji reactions, typing indicators, read receipts, and message search functionality.",
+    "image": "/images/projects/chat-app.jpg",
+    "technologies": ["React", "Node.js", "Socket.io", "MongoDB", "Express", "JWT"],
+    "category": ["Full-Stack", "Real-Time"],
+    "featured": false,
+    "liveUrl": "https://demo-chat.example.com",
+    "githubUrl": "https://github.com/yourusername/chat-app",
+    "highlights": [
+      "Real-time messaging with Socket.io",
+      "Group chat functionality",
+      "File sharing support",
+      "Typing indicators and read receipts",
+      "Message search and history"
+    ],
+    "status": "completed",
+    "date": "2023-10"
+  }
+]

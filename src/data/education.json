@@ -1,0 +1,79 @@
+[
+  {
+    "id": "edu-1",
+    "institution": "Starex University",
+    "degree": "Bachelor of Technology - BTech, Computer Science",
+    "field": "Computer Science & Engineering",
+    "location": "India",
+    "startDate": "2022-08",
+    "endDate": "2025-08",
+    "current": true,
+    "gpa": "8.4",
+    "description": "Pursuing B.Tech in Computer Science Engineering with focus on Software Engineering, Full-Stack Development, Web Technologies, and AI/ML applications.",
+    "achievements": [
+      "Developed solid foundation in problem-solving and algorithms",
+      "Built multiple real-world projects using modern web technologies",
+      "Active participant in tech communities and networking events",
+      "Campus Ambassador at Corizo",
+      "Completed multiple internships and project work"
+    ],
+    "coursework": [
+      "Data Structures & Algorithms",
+      "Database Management Systems",
+      "Operating Systems",
+      "Computer Networks",
+      "Software Engineering",
+      "Web Technologies",
+      "Cloud Computing",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Cybersecurity Fundamentals"
+    ],
+    "projects": [
+      {
+        "name": "Campus Management System",
+        "description": "Developed a comprehensive system for managing student records, attendance, and grades",
+        "tech": ["React", "Node.js", "MongoDB"]
+      },
+      {
+        "name": "Algorithm Visualizer",
+        "description": "Interactive web app for visualizing sorting and searching algorithms",
+        "tech": ["JavaScript", "D3.js", "HTML/CSS"]
+      }
+    ]
+  },
+  {
+    "id": "edu-2",
+    "institution": "Avng world school",
+    "degree": "12th Standard - Science",
+    "field": "Mathematics",
+    "location": "India",
+    "startDate": "2021-04",
+    "endDate": "2022-06",
+    "current": false,
+    "gpa": "7.8",
+    "description": "Completed higher secondary education with focus on Mathematics and Science.",
+    "achievements": [
+      "Strong foundation in Mathematics",
+      "Developed interest in Computer Science",
+      "Participated in academic activities"
+    ]
+  },
+  {
+    "id": "edu-3",
+    "institution": "RDS public school",
+    "degree": "10th Standard - Science",
+    "field": "Mathematics",
+    "location": "Ram sanehi, India",
+    "startDate": "2019-04",
+    "endDate": "2020-06",
+    "current": false,
+    "gpa": "8.6",
+    "description": "Completed secondary education with focus on Mathematics and Science.",
+    "achievements": [
+      "Strong academic performance",
+      "Foundation in Mathematics and Science",
+      "Active in school activities"
+    ]
+  }
+]

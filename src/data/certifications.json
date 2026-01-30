@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cert-1",
+    "name": "Full-Stack Web Development",
+    "issuer": "Udemy",
+    "date": "2023-08",
+    "credentialId": "UC-XXXXXXXX",
+    "credentialUrl": "https://www.udemy.com/certificate/UC-XXXXXXXX/",
+    "skills": ["React", "Node.js", "MongoDB", "Express"],
+    "image": "/images/certifications/fullstack.jpg"
+  },
+  {
+    "id": "cert-2",
+    "name": "Advanced React and Redux",
+    "issuer": "Coursera",
+    "date": "2023-06",
+    "credentialId": "CERT-XXXXXXXX",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/certificate/XXXXXXXX",
+    "skills": ["React", "Redux", "State Management"],
+    "image": "/images/certifications/react.jpg"
+  },
+  {
+    "id": "cert-3",
+    "name": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "date": "2023-09",
+    "credentialId": "AWS-XXXXXXXX",
+    "credentialUrl": "https://aws.amazon.com/verification",
+    "skills": ["AWS", "Cloud Computing", "DevOps"],
+    "image": "/images/certifications/aws.jpg"
+  },
+  {
+    "id": "cert-4",
+    "name": "SEO Fundamentals",
+    "issuer": "SEMrush Academy",
+    "date": "2024-01",
+    "credentialId": "SEMRUSH-XXXXXXXX",
+    "credentialUrl": "https://www.semrush.com/academy/certificates/",
+    "skills": ["SEO", "Digital Marketing", "Analytics"],
+    "image": "/images/certifications/seo.jpg"
+  },
+  {
+    "id": "cert-5",
+    "name": "JavaScript Algorithms and Data Structures",
+    "issuer": "freeCodeCamp",
+    "date": "2023-03",
+    "credentialId": "FCC-XXXXXXXX",
+    "credentialUrl": "https://www.freecodecamp.org/certification/",
+    "skills": ["JavaScript", "Algorithms", "Data Structures"],
+    "image": "/images/certifications/javascript.jpg"
+  }
+]

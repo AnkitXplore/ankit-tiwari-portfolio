@@ -1,0 +1,250 @@
+{
+  "categories": [
+    {
+      "id": "frontend",
+      "name": "Frontend Development",
+      "icon": "FaReact",
+      "skills": [
+        {
+          "name": "React",
+          "level": 90,
+          "icon": "FaReact",
+          "color": "#61DAFB"
+        },
+        {
+          "name": "Next.js",
+          "level": 85,
+          "icon": "SiNextdotjs",
+          "color": "#000000"
+        },
+        {
+          "name": "TypeScript",
+          "level": 85,
+          "icon": "SiTypescript",
+          "color": "#3178C6"
+        },
+        {
+          "name": "JavaScript",
+          "level": 90,
+          "icon": "SiJavascript",
+          "color": "#F7DF1E"
+        },
+        {
+          "name": "HTML5",
+          "level": 95,
+          "icon": "FaHtml5",
+          "color": "#E34F26"
+        },
+        {
+          "name": "CSS3",
+          "level": 90,
+          "icon": "FaCss3Alt",
+          "color": "#1572B6"
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 90,
+          "icon": "SiTailwindcss",
+          "color": "#06B6D4"
+        },
+        {
+          "name": "Redux",
+          "level": 80,
+          "icon": "SiRedux",
+          "color": "#764ABC"
+        },
+        {
+          "name": "Framer Motion",
+          "level": 75,
+          "icon": "SiFramer",
+          "color": "#0055FF"
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend Development",
+      "icon": "FaServer",
+      "skills": [
+        {
+          "name": "Node.js",
+          "level": 85,
+          "icon": "FaNodeJs",
+          "color": "#339933"
+        },
+        {
+          "name": "Express.js",
+          "level": 85,
+          "icon": "SiExpress",
+          "color": "#000000"
+        },
+        {
+          "name": "MongoDB",
+          "level": 80,
+          "icon": "SiMongodb",
+          "color": "#47A248"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": 75,
+          "icon": "SiPostgresql",
+          "color": "#4169E1"
+        },
+        {
+          "name": "REST API",
+          "level": 85,
+          "icon": "FaCode",
+          "color": "#FF6C37"
+        },
+        {
+          "name": "GraphQL",
+          "level": 70,
+          "icon": "SiGraphql",
+          "color": "#E10098"
+        },
+        {
+          "name": "Prisma",
+          "level": 75,
+          "icon": "SiPrisma",
+          "color": "#2D3748"
+        },
+        {
+          "name": "Socket.io",
+          "level": 75,
+          "icon": "SiSocketdotio",
+          "color": "#010101"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Tools & Technologies",
+      "icon": "FaTools",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 85,
+          "icon": "FaGitAlt",
+          "color": "#F05032"
+        },
+        {
+          "name": "GitHub",
+          "level": 85,
+          "icon": "FaGithub",
+          "color": "#181717"
+        },
+        {
+          "name": "Docker",
+          "level": 70,
+          "icon": "FaDocker",
+          "color": "#2496ED"
+        },
+        {
+          "name": "AWS",
+          "level": 65,
+          "icon": "FaAws",
+          "color": "#FF9900"
+        },
+        {
+          "name": "Vercel",
+          "level": 80,
+          "icon": "SiVercel",
+          "color": "#000000"
+        },
+        {
+          "name": "VS Code",
+          "level": 90,
+          "icon": "FaCode",
+          "color": "#007ACC"
+        },
+        {
+          "name": "Postman",
+          "level": 85,
+          "icon": "SiPostman",
+          "color": "#FF6C37"
+        },
+        {
+          "name": "Figma",
+          "level": 75,
+          "icon": "FaFigma",
+          "color": "#F24E1E"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other Skills",
+      "icon": "FaLightbulb",
+      "skills": [
+        {
+          "name": "SEO",
+          "level": 80,
+          "icon": "FaSearch",
+          "color": "#4285F4"
+        },
+        {
+          "name": "Responsive Design",
+          "level": 90,
+          "icon": "FaMobile",
+          "color": "#FF6B6B"
+        },
+        {
+          "name": "Performance Optimization",
+          "level": 80,
+          "icon": "FaBolt",
+          "color": "#FFD93D"
+        },
+        {
+          "name": "Agile/Scrum",
+          "level": 75,
+          "icon": "FaTasks",
+          "color": "#6BCB77"
+        },
+        {
+          "name": "UI/UX Design",
+          "level": 75,
+          "icon": "FaPalette",
+          "color": "#9D4EDD"
+        },
+        {
+          "name": "Technical Writing",
+          "level": 80,
+          "icon": "FaPen",
+          "color": "#4ECDC4"
+        }
+      ]
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Problem Solving",
+      "description": "Strong analytical skills with ability to break down complex problems",
+      "icon": "FaPuzzlePiece"
+    },
+    {
+      "name": "Team Collaboration",
+      "description": "Effective communicator and team player in cross-functional environments",
+      "icon": "FaUsers"
+    },
+    {
+      "name": "Quick Learner",
+      "description": "Rapidly adapt to new technologies and frameworks",
+      "icon": "FaBookReader"
+    },
+    {
+      "name": "Leadership",
+      "description": "Experience leading teams and mentoring junior developers",
+      "icon": "FaUserTie"
+    },
+    {
+      "name": "Time Management",
+      "description": "Efficiently manage multiple projects and meet deadlines",
+      "icon": "FaClock"
+    },
+    {
+      "name": "Communication",
+      "description": "Clear technical communication with both technical and non-technical stakeholders",
+      "icon": "FaComments"
+    }
+  ]
+}

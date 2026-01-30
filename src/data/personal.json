@@ -1,0 +1,47 @@
+{
+  "name": "Ankit Tiwari",
+  "title": "Full-Stack Developer",
+  "subtitle": "First Year B.Tech CSE | Aspiring Software Engineer | Open to Tech Opportunities | Gangram",
+  "bio": "I'm currently pursuing B.Tech in Computer Science Engineering at Starex University, with a strong interest in Software Engineering, Full-Stack Development, Web Technologies, and AI/ML applications. Over the past few years, I have developed a solid foundation in problem-solving, writing algorithms, and scalable web applications using modern technologies like HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Java to create real-world projects that add value.",
+  "location": "Haryana, India",
+  "availability": "Open to opportunities",
+  "email": "tiwariankit5597@gmail.com",
+  "phone": "+91 7987722240",
+  "resumeUrl": "https://drive.google.com/file/d/1Bv9Hh-KeR2bxHRbbqvn6AB-2BMhu3BPP/view?usp=drive_link",
+  "profileImage": "/images/profile.jpg",
+  "roles": [
+    "Full-Stack Developer",
+    "Software Engineer",
+    "Web Developer",
+    "AI/ML Enthusiast",
+    "Problem Solver"
+  ],
+  "social": {
+    "github": "https://github.com/ankittiwari0105",
+    "linkedin": "https://linkedin.com/in/ankit-tiwari-1987722240",
+    "twitter": "https://twitter.com/ankittiwari",
+    "instagram": "https://instagram.com/ankittiwari",
+    "email": "mailto:tiwariankit5597@gmail.com"
+  },
+  "about": {
+    "description": "I'm currently pursuing B.Tech in Computer Science Engineering at Starex University, with a strong interest in Software Engineering, Full-Stack Development, Web Technologies, and AI/ML applications.\n\nOver the past few years, I have developed a solid foundation in problem-solving, writing algorithms, and scalable web applications using modern technologies like HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Java to create real-world projects that add value.\n\nWhat defines me:\n• Passion for software engineering & full-stack development\n• Interest in AI-driven solutions and innovative tech projects\n• Strong problem-solving & analytical skills\n• Ability to learn fast, adapt, and collaborate effectively\n\nCurrently looking for: Internships / Full-time roles in Software Development, Web Development, and AI/ML\n\nOpportunities to work with startups, co-founders, and tech partners\n\nProjects where I can combine coding, creativity, and innovation to create value.\n\nI strongly believe in \"Every connection is an opportunity to learn, share, and grow together.\"\n\nAlways open to connecting with recruiters, founders, and tech enthusiasts who are building the future of technology.",
+    "highlights": [
+      "B.Tech CSE Student at Starex University",
+      "Full-Stack Developer (HTML, CSS, JavaScript, React, Node.js, MongoDB)",
+      "Strong Foundation in Problem-Solving & Algorithms",
+      "AI/ML Applications Enthusiast",
+      "Campus Ambassador & Marketing Intern at Corizo",
+      "Project Intern at Network Traffic Anomaly Detection"
+    ],
+    "interests": [
+      "Full-Stack Development",
+      "Software Engineering",
+      "AI/ML Applications",
+      "Problem Solving & Algorithms",
+      "Web Technologies",
+      "Innovation & Tech Projects",
+      "Startups & Entrepreneurship",
+      "Networking & Collaboration"
+    ]
+  }
+}
